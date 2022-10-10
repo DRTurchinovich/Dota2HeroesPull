@@ -1,0 +1,4 @@
+Dota2\Heroes\controllers\ArtifactController.class
+Dota2\Heroes\config\MySpringMvcDispatcherServletIntitializer.class
+Dota2\Heroes\config\SpringConfig.class
+Dota2\Heroes\controllers\HeroController.class
